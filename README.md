@@ -7,3 +7,7 @@ Course:Análise e Desenvolvimento de Sistemas | Educational Institution: Belas A
 Course Duration (in years): 2 anos e meio
 Current Semester: 2º  | Graduation Year :2026
 Availability to work: 40h |  Estimated Start Date: Imediatamente
+
+RESPOSTAS DAS QUESTÕES ALTERNATIVAS: Arquivo Respostas
+ALGORÍTMO: Arquivo prova.py
+RESPOSTA DA ÚLTIMA PERGUNTA: Arquivo: ultima_pergunta
